@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = "5455169047:AAFiV4iPwZyuCm1VFcEMMYcfTrV1DW5OVCM"
-    APP_ID = "14941304"
-    API_HASH = "c80f4d0c0d340cfc3fe4a3ef7cc55016"
-    DATABASE_URL = "postgres://ldguesdbufieyi:21692ebbce936adc9f2223f5f6fec9a7a6ada3449fb5a4d394b6e51276920665@ec2-44-206-214-233.compute-1.amazonaws.com:5432/da4ngjvb5aarp"
-    SUDO_USERS = "677217233" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/+SeeuJjP-GrxhNTRl"
+    BOT_TOKEN = "5455167:MMYcfTrV1DW5OVCM"
+    APP_ID = "144"
+    API_HASH = "c80f4d0c0d340cf016"
+    DATABASE_URL = "postgres://ldguesdbufieada3449fb5a4d394b6e-233.compute-1.amazonaws.com:5432/da4ngjvb5aarp"
+    SUDO_USERS = "772" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://tRl"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
